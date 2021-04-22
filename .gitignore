@@ -1,1 +1,6 @@
 node_modules/
+vocabulary.txt/
+database.sqlite/
+package.json/
+package-lock.json/
+.github/
